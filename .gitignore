@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore database configuration files
+*.db
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any compiled Python files
+*.pyc
